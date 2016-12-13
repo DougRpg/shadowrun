@@ -1,8 +1,11 @@
-Tradução Shadowrun - 2016 - DougRPG - Versão Beta 1 - 12/12/2016 03:37am
+Tradução Shadowrun - 2016 - DougRPG - Versão Beta 2 - 12/12/2016 03:37am
 ------------------------------------------------------
 Esta é a tradução do jogo Shadowrun de Super Nintendo para o português.
 Esta é a minha primeira tradução lançada. Esta versão ainda é Beta, porém 100% jogável.
 
+Histórico:
+-Beta1 - primeira versão lançada. - 12/12/2016 03:37am
+-Beta2 - corrigi um bug devido a um código de gamegenie que tinha colocado direto na rom pra testar e que na hora de lançar a tradução acabei não tirando da forma correta. Agora é pra estar ok. - 13/12/2016 - 00:41am
 
 
 
